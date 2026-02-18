@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/ai.GuidanceSystem/static/css/main.ce24df7c.css",
+    "main.js": "/ai.GuidanceSystem/static/js/main.72479fcb.js",
+    "index.html": "/ai.GuidanceSystem/index.html",
+    "main.ce24df7c.css.map": "/ai.GuidanceSystem/static/css/main.ce24df7c.css.map",
+    "main.72479fcb.js.map": "/ai.GuidanceSystem/static/js/main.72479fcb.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ce24df7c.css",
+    "static/js/main.72479fcb.js"
+  ]
+}
